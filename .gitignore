@@ -1,0 +1,8 @@
+# Directory
+.idea
+./app/storage/*
+!./app/storage/.gitkeep
+
+# File
+.DS_Store
+*.pyc
