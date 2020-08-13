@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 responder = "*"
 wordcloud = "*"
-uvicorn = "*"
+uvicorn = ">=0.11.7"
 gunicorn = "*"
 mecab-python3 = "*"
 
