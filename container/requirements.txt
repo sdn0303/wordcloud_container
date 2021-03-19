@@ -23,7 +23,7 @@ marshmallow==3.3.0
 matplotlib==3.2.0rc1
 mecab-python3==0.996.4rc2
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.1.1
 promise==2.3
 pyparsing==2.4.6
 python-dateutil==2.8.1
